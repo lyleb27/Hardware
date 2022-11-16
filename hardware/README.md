@@ -8,7 +8,7 @@ Parties théoriques et pratiques bien équilibrées. J'espère que l'on pourra d
 
 
 Séance 2 :
-- Acquisition de connaissances sur le cablâge et les différentes sortent de PC,
+- Acquisition de connaissances sur le cablâge et les différentes sortes de PC,
 - Branchement de cable sur la carte mère,
 - TP et Kahoot.
 
