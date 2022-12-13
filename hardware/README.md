@@ -15,3 +15,11 @@ Séance 2 :
 Remarque :
 
 Cours constructifs, dommage que cette fois-ci nous n'ayons pas un peu plus manipulé de matériel.
+
+
+Séance 3 :
+- Entrainement pour l'examen sur le montage d'une tour.
+
+Remarque :
+
+Bonne idée avant de passer l'examen, cela permet de se rafraichir la mémoire et de voir si tout est acquis ou/et voir s'il reste des incompréhension sur certains points.
