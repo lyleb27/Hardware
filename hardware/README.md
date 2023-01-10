@@ -23,3 +23,8 @@ Séance 3 :
 Remarque :
 
 Bonne idée avant de passer l'examen, cela permet de se rafraichir la mémoire et de voir si tout est acquis ou/et voir s'il reste des incompréhension sur certains points.
+
+
+Séance 4 :
+- Examen.
+
