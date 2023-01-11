@@ -3,7 +3,6 @@ Séance 1 :
 - Démontage et remontage d'une tour.
 
 Remarque :
-
 Parties théoriques et pratiques bien équilibrées. J'espère que l'on pourra dans une prochaine séance démonter et remonter un ordinateur portable.
 
 
@@ -13,7 +12,6 @@ Séance 2 :
 - TP et Kahoot.
 
 Remarque :
-
 Cours constructifs, dommage que cette fois-ci nous n'ayons pas un peu plus manipulé de matériel.
 
 
@@ -21,10 +19,13 @@ Séance 3 :
 - Entrainement pour l'examen sur le montage d'une tour.
 
 Remarque :
-
 Bonne idée avant de passer l'examen, cela permet de se rafraichir la mémoire et de voir si tout est acquis ou/et voir s'il reste des incompréhension sur certains points.
 
 
 Séance 4 :
 - Examen.
 
+
+Séance 5 :
+- rattrapage de l'exam,
+- Acquisition de compétence en software (bios).
