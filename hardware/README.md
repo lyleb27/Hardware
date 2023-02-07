@@ -32,3 +32,8 @@ Séance 4 :
 Séance 5 :
 - rattrapage de l'exam,
 - Acquisition de compétence en software (bios).
+
+
+Séance 6 :
+- Oral (clé usb),
+- Installation d'un OS sur une tour.
